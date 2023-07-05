@@ -41,7 +41,7 @@ class App extends Component {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/cart" element={<Cart />} />
-            <Route path="/ayment" element={<Payment />} />
+            <Route path="/payment" element={<Payment />} />
             <Route path="/info" element={<Info />} />
             <Route
               path="/shipdetail"

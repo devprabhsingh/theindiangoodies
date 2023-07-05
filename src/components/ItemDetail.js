@@ -61,7 +61,7 @@ class ItemDetail extends React.Component {
               </Link>
               <div>
                 <h2 className="item-name">{item.name}</h2>
-                <p>Product Id : {item._id}</p>
+                <p>Product Id : {item._id || item.id}</p>
               </div>
             </div>
           </div>

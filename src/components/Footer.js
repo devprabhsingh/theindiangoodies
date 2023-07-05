@@ -15,9 +15,9 @@ export default class Footer extends Component {
         <div id="containers">
           <div className="container">
             <h4>Know more</h4>
-            <a href="/info">About Us</a>
-            <a href="/info">Shipping and fees</a>
-            <a href="/info">Privacy Policy</a>
+            <Link to="/info">About Us</Link>
+            <Link to="/info">Shipping and fees</Link>
+            <Link to="/info">Privacy Policy</Link>
           </div>
           <div className="container ">
             <h4>Connect with us</h4>
@@ -39,9 +39,9 @@ export default class Footer extends Component {
           </div>
           <div className="container">
             <h4>We can Help</h4>
-            <a href="/info">Track your Order</a>
-            <a href="/info">Return Policy</a>
-            <a href="/info">Help and Support</a>
+            <Link to="/info">Track your Order</Link>
+            <Link to="/info">Return Policy</Link>
+            <Link to="/info">Help and Support</Link>
           </div>
         </div>
         <div id="title-in-footer">

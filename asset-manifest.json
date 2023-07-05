@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/theindiangoodies/static/css/main.c4cafbaf.css",
-    "main.js": "/theindiangoodies/static/js/main.28512b69.js",
+    "main.js": "/theindiangoodies/static/js/main.78d6e952.js",
     "static/media/food.png": "/theindiangoodies/static/media/food.13e7da6c1d2b06080023.png",
     "static/media/phone.png": "/theindiangoodies/static/media/phone.90fe19ce9fea04cfaf0f.png",
     "static/media/offer2.jpg": "/theindiangoodies/static/media/offer2.5a29846da14fdbb8da91.jpg",
     "static/media/offer1.jpg": "/theindiangoodies/static/media/offer1.dfab7d0704cf58b11898.jpg",
     "index.html": "/theindiangoodies/index.html",
     "main.c4cafbaf.css.map": "/theindiangoodies/static/css/main.c4cafbaf.css.map",
-    "main.28512b69.js.map": "/theindiangoodies/static/js/main.28512b69.js.map"
+    "main.78d6e952.js.map": "/theindiangoodies/static/js/main.78d6e952.js.map"
   },
   "entrypoints": [
     "static/css/main.c4cafbaf.css",
-    "static/js/main.28512b69.js"
+    "static/js/main.78d6e952.js"
   ]
 }

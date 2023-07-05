@@ -1,0 +1,82 @@
+export const carData = [
+  {
+    id: 1,
+    quantity: 5,
+    name: "LED cup holder lights",
+    description:
+      "Lights will automatically turn off in 15 seconds without sensing vibration, it's smart and convenient luminescent cup pads.A button on the back of USB charging cup mat for you to control light mode and change lights color.Increase car interior atmosphere and promote driving experience.",
+    characterstics: [
+      "Top quality material",
+      "vibration sensing",
+      "Easy to use",
+      "Modern design",
+    ],
+    specifications: [
+      "Material: Acrylic",
+      "Size: approx. 7 x 0.9 cm/ 2.75 x 0.35 inches",
+      "3 Modes: colorful, breath and gradient",
+    ],
+    color: "Black",
+    price: 21.95,
+    img1: "https://m.media-amazon.com/images/I/51DZ8ViH8bL._AC_SY355_.jpg",
+    img2: "https://m.media-amazon.com/images/I/51y8-MQUy8L._AC_SY355_.jpg",
+    img3: "https://m.media-amazon.com/images/I/71dVYpkKUXL._AC_SY355_.jpg",
+  },
+  {
+    id: 2,
+    quantity: 10,
+    name: "Hanging Dice Pendant",
+    description:
+      "Ready to use, Just hang the dice pendant on your car mirrors, the delicate and creative appearance is very suitable for decorating your car. An ideal gift for families or friends!",
+    characterstics: [
+      "Top quality material",
+      "Metal texture",
+      "Easy to use",
+      "Modern design",
+    ],
+    specifications: [],
+    color: "Metallic",
+    price: 11.95,
+    img1: "https://m.media-amazon.com/images/I/51ADv27qSpL._AC_SY450_.jpg",
+    img2: "https://m.media-amazon.com/images/I/51zi1sfoTbL._AC_SY450_.jpg",
+    img3: "https://m.media-amazon.com/images/I/51nKInS9uoL._AC_SY450_.jpg",
+  },
+  {
+    id: 3,
+    quantity: 10,
+    name: "Swinging Sunglasses Duck Hanging",
+    description:
+      "Ready to use, Just hang the pendant on your car mirrors, the delicate and creative appearance is very suitable for decorating your car. An ideal gift for families or friends!",
+    characterstics: [
+      "Top quality material",
+      "One of the best Gifts",
+      "Easy to use",
+      "Modern design",
+    ],
+    specifications: [],
+    color: "Black-yellow",
+    price: 11.0,
+    img1: "https://m.media-amazon.com/images/I/71qT0N3Z6GL._AC_SY355_.jpg",
+    img2: "https://m.media-amazon.com/images/I/61ontlcWtpL._AC_SY355_.jpg",
+    img3: "https://m.media-amazon.com/images/I/51pjYwpdjVL._AC_SY355_.jpg",
+  },
+  {
+    id: 4,
+    quantity: 10,
+    name: "Hanging Dice Pendant",
+    description:
+      "Ready to use, Just hang the dice pendant on your car mirrors, the delicate and creative appearance is very suitable for decorating your car. An ideal gift for families or friends!",
+    characterstics: [
+      "Top quality material",
+      "Metal texture",
+      "Easy to use",
+      "Modern design",
+    ],
+    specifications: [],
+    color: "Metallic",
+    price: 11.95,
+    img1: "https://m.media-amazon.com/images/I/51ADv27qSpL._AC_SY450_.jpg",
+    img2: "https://m.media-amazon.com/images/I/51zi1sfoTbL._AC_SY450_.jpg",
+    img3: "https://m.media-amazon.com/images/I/51nKInS9uoL._AC_SY450_.jpg",
+  },
+];
